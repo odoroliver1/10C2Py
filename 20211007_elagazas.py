@@ -33,7 +33,7 @@ def feladat11():
 #feladat4(34)
 #feladat4(-30)
 #feladat5(a)
-feladat11(6)
+feladat11()
 
 
 
